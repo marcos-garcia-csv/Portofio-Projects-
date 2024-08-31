@@ -1,4 +1,4 @@
-[Portfolio Overview]
+## Portfolio Overview
 
 Welcome to my portfolio repository, a curated collection of work demonstrating my skills and expertise across various domains. Each project has been carefully selected to highlight different aspects of my technical abilities and problem-solving approach. I hope you find these projects both insightful and enjoyable.
 
