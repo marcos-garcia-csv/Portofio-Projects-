@@ -8,7 +8,7 @@ SELECT
 FROM 
 	superstore_sales;
 
-#Selecting specific column
+#Selecting specific columns
 SELECT 
 	Order_ID,Product_Name, Sales 
 FROM 
